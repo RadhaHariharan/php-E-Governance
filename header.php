@@ -14,7 +14,7 @@
   <!--Title-->
   <title>Kalvisolai - No 1 Educational website in TamilNadu</title>
   <!--Logo-->
-  <link rel="icon" href="IMAGE/logo.ico">
+  <link rel="icon" href="logo.ico">
 </head>
 <body>
 
@@ -23,7 +23,7 @@
   <div id="slideout-menu">
     <ul>
       <li>
-        <a href="index.html"><i class="fas fa-home"></i> Home</a>
+        <a href="index.php"><i class="fas fa-home"></i> Home</a>
       </li>
       <li>
         <a href="#">Flash news</a>
@@ -47,7 +47,7 @@
   <nav>
     <!--NAV BAR HEADING-->
     <div id="heading">
-      <a href="index.html">
+      <a href="index.php">
         Kalvisolai
       </a>
     </div>
@@ -58,7 +58,7 @@
     <!--LINKS-->
     <ul>
       <li>
-        <a href="index.html" class="active"><i class="fas fa-home"></i> Home</a>
+        <a href="index.php" class="active"><i class="fas fa-home"></i> Home</a>
       </li>
       <li>
         <a href="#"><i class="fas fa-newspaper"></i> Flash news</a>
